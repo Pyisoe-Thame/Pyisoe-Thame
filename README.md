@@ -1,21 +1,28 @@
-## Hamesonpiel
-I am an aspiring Embedded Systems Hobbyist. <br/>
-Dwell in C/C++ programming, microcontrollers, and real-time systems. <br/> Have a dream of becoming a Gundam pilot.
-<!--
-**Pyisoe-Thame/Pyisoe-Thame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-- 🤔 I’m looking for help with ...  
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: @
--->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pyisoe-Thame.Pyisoe-Thame" />
 
-- 🌱 I’m currently learning python Django
-- 💬 Tell me about : RTOSs
+<!-- Horror Font
+<h1 align="center"> <img 
+  src="https://readme-typing-svg.herokuapp.com/?font=Creepster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Hamesonpiel!;&color=8B0000" 
+  alt="Typing SVG" /> </h1>  -->
+
+<!-- Romantic Font -->
+<h1 align="center"> <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Parisienne&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Hamesonpiel!;&color=C8A2C8" 
+    alt="Typing SVG" /> </h1>
+    
+<h3 align="center"> An aspiring embedded system hobbyist from Myanmar. </h3>
+
+<div align="center">
+
+<h5> 🥪 Dwell in C/C++ programming, microcontrollers, and real-time systems. </h5>
+<h5> 💜 Dream to become Gundam pilot. </h5>
+<br/>
+<a href="mailto:pyisoethame@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-chocolate?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
   
-<!--
-- ⚡ Fun fact: 
--->
 ### :hammer_and_wrench: Languages and Tools :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
