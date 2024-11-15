@@ -1,5 +1,6 @@
 ## Hamesonpiel
-I am an aspiring Embedded Systems Hobbyist with a background in Electronics and Communication Engineering. Dwell in C/C++ programming, microcontrollers, and real-time systems.
+I am an aspiring Embedded Systems Hobbyist with a background in Electronics and Communication Engineering.
+Dwell in C/C++ programming, microcontrollers, and real-time systems. Have a dream of becoming a Gundam pilot.
 <!--
 **Pyisoe-Thame/Pyisoe-Thame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
