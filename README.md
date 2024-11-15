@@ -1,6 +1,6 @@
 ## Hamesonpiel
-I am an aspiring Embedded Systems Hobbyist with a background in Electronics and Communication Engineering.
-Dwell in C/C++ programming, microcontrollers, and real-time systems. Have a dream of becoming a Gundam pilot.
+I am an aspiring Embedded Systems Hobbyist with a background in Electronics and Communication Engineering. <br/>
+Dwell in C/C++ programming, microcontrollers, and real-time systems. <br/> Have a dream of becoming a Gundam pilot.
 <!--
 **Pyisoe-Thame/Pyisoe-Thame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -28,10 +28,13 @@ Dwell in C/C++ programming, microcontrollers, and real-time systems. Have a drea
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### 📊 Stats
 
 ![Hamesonpiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyisoe-Thame&show_icons=true&theme=ambient_gradient)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pyisoe-Thame&no-frame=false&row=2&column=3&margin-w=10&margin-h=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
