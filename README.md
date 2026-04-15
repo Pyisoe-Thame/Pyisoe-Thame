@@ -40,12 +40,5 @@
 <h2 align="center"> 🦝 Stats 🦝 </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pyisoe-Thame&show_icons=true&theme=ambient_gradient" alt="Hamesonpiel's GitHub stats"/>
-  <br/> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Pyisoe-Thame&no-frame=false&row=2&column=3&margin-w=10&margin-h=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"/> 
 </div>
-
-<!--
-<h2 align="center"> 🩴 Coding Footprints 🩴 </h2>
-<div align="center">
-</div>  -->
 
