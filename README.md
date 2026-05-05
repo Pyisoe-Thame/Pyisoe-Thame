@@ -37,8 +37,3 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
 </div>
 
-<h2 align="center"> 🦝 Stats 🦝 </h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pyisoe-Thame&show_icons=true&theme=ambient_gradient" alt="Hamesonpiel's GitHub stats"/>
-</div>
-
